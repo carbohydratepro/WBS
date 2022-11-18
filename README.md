@@ -1,2 +1,2 @@
 # WBS
-### Excelにマクロで記述
+### ExcelにVBAで記述
